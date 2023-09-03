@@ -1,16 +1,11 @@
-### Hi there 👋
+# Random things about me
+👋 Hello there I'm Anthony
+🔭 I’m currently working at **Waltio**, the best SaaS Fintech company in the world
+🌱 I’m currently learning to improve my coding skills, develop my creativity and not losing too much money in cryptos 🤣
+📍 Working in France
+💞️ I’m loving to collaborate on multiple projects that can boost my culture
+🎲 D20 thrower since 2013, loving tabletop RPG (D&D, Cthulhu, etc.) 
+💬 Ask me about **anything!**
+⚡ Fun fact: 
 
-<!--
-**Setny/Setny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Where connect with me
