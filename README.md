@@ -6,6 +6,3 @@
 💞️ I’m loving to collaborate on multiple projects that can boost my culture <br>
 ⚡ Fun fact: D20 thrower since 2013, loving tabletop RPG (D&D, Cthulhu, etc.)  <br>
 💬 Ask me about **anything!**
-
-
-# Where connect with me
